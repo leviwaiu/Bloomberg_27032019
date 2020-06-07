@@ -1,0 +1,268 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" > 
+<html lang="en"><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<title>		Transaction in Own Shares - RNS - London Stock Exchange
+</title>
+				<meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta http-equiv="content-language" content="en-US" />				<meta name="description" content="Transaction in Own Shares RNS - regulatory news service - news" />
+							<meta name="keywords" content="Transaction in Own Shares, regulatory news service, RNS news, news announcements, RSS feed, RNS reach" />
+				
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />	
+	
+    <link title="style" href="/media/css/lse.rns.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5J263Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5J263Q');
+	</script>
+	<!-- End Google Tag Manager -->
+
+  
+	<div id="fullcontainer">				
+		<p>	<!-- /news/market-news/mediadetailnews -->
+
+<script Language="javascript">
+	function sendto(page, parentFocus) {
+		if (window.opener != null) {
+			var win = this;
+			window.opener.location.href = page;
+			if (parentFocus) {
+				window.opener.parent.focus();
+			}
+		} else {
+			window.location.href = page;
+		}
+	}
+</script>
+
+
+	<table width="100%">
+	<tr>
+		<td colspan="2" class="marketnews">Regulatory Story</td>
+	</tr>
+	<tr>
+		<td class="bodytext"><a href="javascript: sendto('/exchange/news/market-news/market-news-home.html',false)"><b>Go to market news section</b></a></td>
+		<td align="right" nowrap="nowrap">
+			<a href="javascript: sendto('/exchange/prices-and-markets/stocks/summary/company-summary-chart-via-tidm.html?tidm=RYA',false)"><img src="/media/img/icon/chart.gif" alt="View chart" /></a>&nbsp;&nbsp;
+			<a href="javascript: window.print();" title="Print"><img src="/media/img/icon/print.gif" border="0" alt="Print"></a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2"></td>
+	</tr>
+	<tr>
+		<td colspan="2" class="bodytext">
+			<table cellpadding="4" cellspacing="4" class="marketnews-tabledetail">
+				<tr>
+						<td width="90"><img src="/media/img/company/logo_RNS.png" alt="RNS"></td>
+					<td>
+						<div class="marketnews-tidm"><a href='/exchange/prices-and-markets/stocks/summary/company-summary-via-tidm.html?tidm=RYA' title="View detailed price page"><strong>Ryanair Holdings PLC</strong></a>&nbsp;&nbsp;-&nbsp;&nbsp;RYA&nbsp;&nbsp;&nbsp;</div>
+						<div class="marketnews-h1"><h1 class="detailNews">Transaction in Own Shares</h1></div>
+						<div class="marketnews-released">Released 07:00 12-Apr-2016</div>
+					</td>
+				</tr>
+				<tr>
+					<td class="marketnews-logocomp" colspan="2">	
+							<img src="/prices-and-markets/stocks/logos-companies/byt/bytby10.gif" onerror="this.onerror=null;this.src='/media/img/void.gif';">
+					</td>
+				</tr>
+				
+			</table>
+		</td>
+	</tr>
+	</table>
+	<br/>
+
+	<!-- Begin announcement content -->
+		<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+<title></title>
+<meta name="generator" content="RNS" />
+<style type="text/css">
+/*<![CDATA[*/
+
+
+
+
+H1 {
+        MARGIN: 12pt 0cm 3pt; FONT-FAMILY: "Arial","sans-serif"; FONT-SIZE: 14pt
+}
+OL {
+        MARGIN-BOTTOM: 0cm
+}
+UL {
+        MARGIN-BOTTOM: 0cm
+}
+.p {
+        MARGIN: 127.6pt 79.4pt 3cm; size: 21.0cm 842.0pt
+}
+DIV.p {
+        
+}
+P.l {
+        TEXT-ALIGN: justify; LINE-HEIGHT: 120%; MARGIN: 0cm 0cm 7pt; FONT-FAMILY: "Arial","sans-serif"; FONT-SIZE: 10pt
+}
+LI.l {
+        TEXT-ALIGN: justify; LINE-HEIGHT: 120%; MARGIN: 0cm 0cm 7pt; FONT-FAMILY: "Arial","sans-serif"; FONT-SIZE: 10pt
+}
+DIV.l {
+        TEXT-ALIGN: justify; LINE-HEIGHT: 120%; MARGIN: 0cm 0cm 7pt; FONT-FAMILY: "Arial","sans-serif"; FONT-SIZE: 10pt
+}
+P.x {
+        TEXT-ALIGN: center; LINE-HEIGHT: 120%; MARGIN: 0cm 0cm 7pt; FONT-FAMILY: "Arial","sans-serif"; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+P.y {
+        TEXT-ALIGN: justify; LINE-HEIGHT: 120%; MARGIN: 0cm 0cm 7pt; FONT-FAMILY: "Arial","sans-serif"; FONT-SIZE: 10pt
+}
+SPAN.n {
+        
+}
+SPAN.u {
+        COLOR: black
+}
+SPAN.t {
+        COLOR: lime
+}
+SPAN.z {
+        COLOR: black
+}
+P.a {
+        MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman","serif"; FONT-SIZE: 10pt
+}
+LI.a {
+        MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman","serif"; FONT-SIZE: 10pt
+}
+DIV.a {
+        MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman","serif"; FONT-SIZE: 10pt
+}
+SPAN.aa {
+        FONT-FAMILY: "Arial","sans-serif"; COLOR: black
+}
+SPAN.ab {
+        FONT-FAMILY: "Arial","sans-serif"; COLOR: black
+}
+P.ac {
+        MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman","serif"; FONT-SIZE: 10pt
+}
+SPAN.q {
+        FONT-FAMILY: "Arial","sans-serif"
+}
+
+
+
+/*]]>*/
+</style>
+</head>
+<body><div>RNS Number : 8588U</div>  <div>Ryanair Holdings PLC</div>  <div>12 April 2016</div>  <div>&#160;</div>
+<div class="p">
+<p class="l">&#160;</p>
+<p class="x">Ryanair Holdings plc</p>
+<p class="x">Transaction in own shares</p>
+<p class="y"><span class="n"><span class="u">Ryanair Holdings plc (the "<span style="FONT-WEIGHT: bold">Company</span>") has previously announced an intention to return capital to shareholders by way of a share buy-back programme to be conducted pursuant to irrevocable arrangements with its brokers, Citigroup Global Markets Limited ("Citi") and J&amp;E Davy ("Davy"). The Company today announces that on 11 April 2016</span><span class="t">&#160;</span><span class="u">it purchased for cancellation a total of 407,678</span><span class="t">&#160;</span><span class="u">ordinary shares of nominal value &#8364;0.006 each in the capital of the Company ("<span style="FONT-WEIGHT: bold">Ordinary Shares</span>") and 210,000 Ordinary Shares underlying American Depositary Receipts.</span></span></p>
+<p class="y"><span class="n"><span class="u">The Ordinary Shares repurchased have been repurchased at an average price of &#8364;13.1765 per Ordinary Share (high of &#8364;13.1777</span><span class="t">&#160;</span><span class="u">and low of &#8364;13.1760) and the Ordinary Shares underlying American Depositary Receipts have been repurchased at an average price of $16.5041</span><span class="t">&#160;</span><span class="u">(high of $16.6520</span><span class="t">&#160;</span><span class="u">and low of $16.3640). </span></span></p>
+<p class="l"><span class="z">In respect of this programme, which will operate until not later than 31 October 2016, Citi and Davy will make trading decisions in relation to Ryanair's Ordinary Shares and American Depositary Receipts repurchased under the buy-back programme independently of, and uninfluenced by, Ryanair.&#160; Any such acquisitions will be effected within certain pre-set parameters, and in accordance with both Ryanair's general authority to repurchase Ordinary Shares and Ordinary Shares underlying American Depositary Receipts, and Chapter 9 of the Listing Rules of the Irish Stock Exchange.</span></p>
+<p class="y"><span class="n"><span class="u">Following the cancellation of the Ordinary Shares repurchased the Company will have 1,284,926,280</span><span class="t">&#160;</span><span class="u">Ordinary Shares in issue. To the extent that further Ordinary Shares (including Ordinary Shares underlying American Depositary Receipts) are repurchased under the programme, these will also be cancelled.</span></span></p>
+<p class="l">Enquires</p>
+<p class="a"><span class="aa">Contact:</span></p>
+<p class="a"><span class="aa">Neil Sorahan</span></p>
+<p class="a"><span class="aa">Ryanair Holdings Plc</span></p>
+<p class="a"><span class="ab">Tel: + 353 1 945 1212</span></p>
+<p class="l">&#160;</p>
+<p class="ac"><span class="q">12 April 2016</span></p>
+</div>
+<div style="text-align:center;"><br/>This information is provided by RNS</div><div style="text-align:center;">The company news service from the London Stock Exchange</div><div>&#160;</div>  END<div>&#160;</div><div>&#160;</div>POSFFLLFQZFLBBQ</body>
+</html>
+	<!-- End announcement content -->
+
+	<br/>
+	<div class="clear"></div>
+	<div class="standard-button floatdx"><a href="javascript:self.close();" title="Close">Close</a></div>
+	<div class="clear"></div>
+
+	<!-- //news/market-news/mediadetailnews -->
+</p>
+<p>	<table class='table-editorial-1' class='table-editorial-1' width="100%">
+<tr>
+<td width="99%" align="center"><p align="center">	<!-- /news/realmedia-top-news-finance -->
+	<!------ OAS SETUP begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!-- 
+//configuration 
+OAS_url = 'http://safe.borsaitaliana.it/advertising.borsaitaliana.it/RealMedia/ads/';
+OAS_sitepage = 'www.londonstockexchange.com/news_and_events';
+OAS_listpos = 'Top';
+OAS_query = '';
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 
+document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 
+}
+ //--> 
+ </SCRIPT> 
+<SCRIPT LANGUAGE=JavaScript1.1> 
+<!--  
+ OAS_version = 11;   
+if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))  
+ OAS_version = 10; 
+if (OAS_version >= 11) 
+document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
+</SCRIPT><SCRIPT LANGUAGE=JavaScript> 
+<!--  
+ document.write('');  
+function OAS_AD(pos) {  
+if (OAS_version >= 11 && typeof(OAS_RICH)!='undefined')
+ OAS_RICH(pos);  
+else 
+ OAS_NORMAL(pos);  
+}  //--> 
+ </SCRIPT>  
+<!------ OAS SETUP end ------> 
+<!------ OAS AD 'Top' begin ------>  
+<SCRIPT LANGUAGE=JavaScript>  
+<!--  
+OAS_AD('Top');  
+//-->  
+</SCRIPT>  
+<!------ OAS AD 'Top' end ------>
+
+	<!-- //news/realmedia-top-news-finance -->
+</p>
+</td>
+<td width="2%"></td>
+<td width="1%" align="center"><p align="left"></p>
+</td>
+</tr>
+</table>
+
+</p>
+<p>	<!-- /news/market-news/media-popup-news-terms-conditions -->
+	<table width="100%">
+<tr>
+	<td class="bodytext"><hr>
+<strong>London Stock Exchange plc is not responsible for and does not check content on this Website. Website users are responsible for checking content. Any news item (including any prospectus) which is addressed solely to the persons and countries specified therein should not be relied upon other than by such persons and/or outside the specified countries. <a href="javascript: var x=window.open('/global/legal/terms-and-conditions.htm', 'Disclaimer', 'status=1,resizable=1,menubar=1,,addressbar=1,toolbar=1, scrollbars=1,top=10,left=10,width=1000')">Terms and conditions</a>, including restrictions on use and distribution apply.</strong><hr>
+	</td>
+</tr>
+<tr>
+	<td class="globalfooter">&#169;<span id="GlobalFooter_lblYear">2014</span> London Stock Exchange plc. All rights reserved</td>
+</tr>
+</table>
+	<!-- //news/market-news/media-popup-news-terms-conditions -->
+</p>
+<p>&nbsp;</p>
+						<br/><h2 class="corpweb">Transaction in Own Shares - RNS</h2>
+			</div>
+  
+</body>
+</html>	
